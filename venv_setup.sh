@@ -12,6 +12,6 @@ source ./env/Scripts/activate pip install ipykernel
 # Add as Jupyter kernel
 source ./env/Scripts/activate python -m ipykernel install --user --name=ask-your-pdf-env --display-name "Python (ask-your-pdf-env)"
 
-echo "etup complete. Kernel 'Python (ask-your-pdf-env)' is ready."
+echo "setup complete. Kernel 'Python (ask-your-pdf-env)' is ready."
 
 deactivate
