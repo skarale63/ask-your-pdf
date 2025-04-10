@@ -15,7 +15,7 @@ def user_input(user_question):
 
 def main():
     st.set_page_config("Information Retrieval")
-    st.header("Information Retrieval System💁")
+    st.header("Information Retrieval System ")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
