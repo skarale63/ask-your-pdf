@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 resources/*
+notebook/qa_history.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
